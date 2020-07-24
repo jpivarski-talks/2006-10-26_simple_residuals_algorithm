@@ -1,0 +1,27 @@
+#FIG 3.2  Produced by xfig version 3.2.5-alpha5
+Landscape
+Center
+Metric
+A4      
+100.00
+Single
+-2
+1200 2
+6 5850 3150 9000 3825
+4 1 0 50 -1 4 12 0.0000 0 195 2895 7425 3375 2. Incorporate residuals algorithm\001
+4 1 0 50 -1 4 12 0.0000 0 195 2025 7425 3615 into CommonAlignment\001
+-6
+6 450 5355 4950 6030
+4 1 0 50 -1 4 12 0.0000 0 195 3780 2700 5580 4. Use residuals plots to monitor global fits,\001
+4 1 0 50 -1 4 12 0.0000 0 195 4185 2700 5820 though global fits are used for the real alignment\001
+-6
+6 5850 5355 9000 6030
+4 1 0 50 -1 4 12 0.0000 0 195 3015 7425 5580 3. Use residuals algorithm on large\001
+4 1 0 50 -1 4 12 0.0000 0 195 2685 7425 5820 outliers while global fits mature\001
+-6
+2 3 0 1 0 6 52 -1 20 0.000 0 0 -1 0 0 18
+	 900 4725 0 5625 900 6525 900 6075 9000 6075 9450 5400
+	 9450 3375 9000 2700 225 2700 225 3195 5400 3195 5400 3555
+	 225 3555 225 4050 8325 4050 8325 5175 900 5175 900 4725
+4 1 0 50 -1 4 12 0.0000 0 195 4260 2700 3015 1. Extend CommonAlignment to Muon Chambers\001
+4 1 0 50 -1 4 12 0.0000 0 195 4695 2700 3870 1. Test residuals algorithm in MuonAlignmentAnalyzer\001
